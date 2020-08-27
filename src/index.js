@@ -1,11 +1,7 @@
 import React, { Component } from 'react';
 import { render } from 'react-dom';
 import './index.css';
-import 'react-mdl/extra/material.css';
-import 'react-mdl/extra/material.js';
 
-
-import { Layout,Header,Navigation,Drawer,Content } from 'react-mdl';
 
 
 
